@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512.01" height="490.662" viewBox="0 0 512.01 490.662">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f60"/>
+      <stop offset="1" stop-color="#ff781f"/>
+    </linearGradient>
+  </defs>
+  <g id="pentagon-svgrepo-com" transform="translate(0 -10.674)">
+    <g id="Group_1">
+      <path id="Path_1" d="M507.8,200.28,262.471,12.866a10.657,10.657,0,0,0-12.949,0L4.188,200.28A10.708,10.708,0,0,0,.54,212.12L94.257,494.04a10.647,10.647,0,0,0,10.133,7.3H407.643a10.693,10.693,0,0,0,10.133-7.3l93.717-281.92A10.779,10.779,0,0,0,507.8,200.28Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
